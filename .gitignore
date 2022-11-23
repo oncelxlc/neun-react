@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# production
+/dist
+
+# Mac
+.DS_Store
+
+# Fleet
+.fleet
+
+# vscode
+.vscode
+
+# dumi
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
